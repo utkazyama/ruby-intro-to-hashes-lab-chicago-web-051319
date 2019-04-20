@@ -2,9 +2,8 @@ def new_hash
   new_hash = {}
 end
 
-def actor(name,value)
-  actor = {:name => value
-  }
+def actor
+  actor = {:name => "value"}
 
 end
 
